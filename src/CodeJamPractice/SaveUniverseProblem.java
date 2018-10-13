@@ -8,6 +8,15 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * 
+ * Problem location
+ * 
+ * https://code.google.com/codejam/contest/32013/dashboard
+ * 
+ * @author antany
+ *
+ */
 public class SaveUniverseProblem {
 
 	public static void main(String[] args) throws Exception {
